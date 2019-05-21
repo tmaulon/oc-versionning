@@ -11,3 +11,18 @@ If you’d like to learn more about Vue before diving in, we created a video wal
 If you are an experienced frontend developer and want to know how Vue compares to other libraries/frameworks, check out the Comparison with Other Frameworks.
 
 Find the doc [here](https://vuejs.org/v2/guide/)
+
+# Folder Structure
+```
+├── inc
+│   ├── js
+│   │   └──  main.js
+│   ├── css
+│   │   └──  style.css
+│   ├── Components
+│   │   │──  FilmCard.vue
+│   │   └──  SectionTitle.vue
+│   └── nav.js
+├── index.html
+└── README.md
+```
