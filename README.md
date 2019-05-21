@@ -1,3 +1,3 @@
 ### Vue.js Project  
 
-##based on Vue documentation
+## Based on Vue documentation
